@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Eldad Rudich</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://eldad.ru/"/>
+  <updated>2017-02-18T22:41:44.424Z</updated>
+  <id>http://eldad.ru/</id>
+  
+  <author>
+    <name>Eldad Rudich</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="http://eldad.ru/2017/02/18/hello-world/"/>
+    <id>http://eldad.ru/2017/02/18/hello-world/</id>
+    <published>2017-02-18T22:41:44.424Z</published>
+    <updated>2017-02-18T22:41:44.424Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to my blog! This is my very first post. my name is Eldad Rudich and I’m a software developer and security researcher from Israel.<br>My main interests are low level development and research and this blog will mainly focus on those topics.<br>please feel free to contact me via email or twitter, you can read more about me in the About section of this site.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to my blog! This is my very first post. my name is Eldad Rudich and I’m a software developer and security researcher from Israel.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
